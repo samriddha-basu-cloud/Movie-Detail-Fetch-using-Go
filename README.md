@@ -1,4 +1,3 @@
-```markdown
 # Movie Management API
 
 A simple RESTful API for managing a collection of movies using Go and the Gorilla Mux router.
@@ -37,7 +36,7 @@ This project provides a basic API for managing movie data. It allows you to perf
 3. Run the application:
    ```bash
    go run main.go
-   ```
+
 
 4. The API is now running on http://localhost:8000.
 
