@@ -25,12 +25,12 @@ This project provides a basic API for managing movie data. It allows you to perf
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/movie-management-api.git
+   git clone [https://github.com/yourusername/movie-management-api.git](https://github.com/samriddha-basu-cloud/Movie-Detail-Fetch-using-Go.git)
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd movie-management-api
+   cd Movie-Detail-Fetch-using-Go
    ```
 
 3. Run the application:
